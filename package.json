@@ -38,7 +38,7 @@
     "test": "react-app-rewired test --env=jsdom",
     "eject": "react-app-rewired eject"
   },
-  "proxy": "http://localhost:3001",
+  "proxy": "https://node-react-rahul.herokuapp.com/",
   "browserslist": [
     ">0.2%",
     "not dead",
